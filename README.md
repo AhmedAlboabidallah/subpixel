@@ -6,6 +6,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Tkinter, math ,csv, numpy , matplotlib, sys, pyshp, gmtime, strftime, opencv, scipy, pylab,  mplot3d, PIL, os, easygui, vigra , winsound, pickle, subprocess, gc, pandas, gdal, osr , skimage, string, itertools, shutil, errno, scipy, dask.array, joblib, skimage, glob, and requests.
 Most of these libraries are available with Anaconda. However, any missing library will be appear in the returns Python error messages. 
 It is possible some bugs still arises. If so, sorry for the inconvenience, and please feel free to submit any suggestion/solution (if you can found it) at:
-ahmed.alboabidallah@students.plymouth.ac.uk
-   The the package is located at github.com
+ahmed.alboabidallah@mtu.edu.iq
+   The package is located at github.com
    Enjoy!
